@@ -1,5 +1,5 @@
 # Inlighn-Tech--Power-Bi-Project
-![Alt text](image_path)
+![Alt text](https://github.com/zehrarsh/Inlighn-Tech--Power-Bi-Project/blob/main/PowerBi1.png)
 ![Alt text](image_path)
 
 

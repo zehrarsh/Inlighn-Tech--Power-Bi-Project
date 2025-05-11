@@ -1,6 +1,6 @@
 # Inlighn-Tech--Power-Bi-Project
 ![Alt text](https://github.com/zehrarsh/Inlighn-Tech--Power-Bi-Project/blob/main/PowerBi1.png)
-![Alt text](image_path)
+![Alt text](https://github.com/zehrarsh/Inlighn-Tech--Power-Bi-Project/blob/main/PowerBi2.png)
 
 
 An interactive Power BI dashboard that visualizes e-commerce sales, profit, and order metrics with dynamic filters and insightful charts.

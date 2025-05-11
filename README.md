@@ -1,4 +1,7 @@
 # Inlighn-Tech--Power-Bi-Project
+![Alt text](image_path)
+![Alt text](image_path)
+
 An interactive Power BI dashboard that visualizes e-commerce sales, profit, and order metrics with dynamic filters and insightful charts.
 Project Overview
 This project involves the development of an interactive E-commerce Sales Dashboard using Microsoft Power BI. The goal is to analyze and visualize sales performance data from an online retail business, enabling stakeholders to gain insights into financial and operational metrics.
